@@ -1,0 +1,97 @@
+IssueKey,IssueType,Summary,Description,StoryPoints,Assignee,Labels,Components,AcceptanceCriteria
+OM-001,Story,Digital Order Intake Form,"As an Order Manager, I want to create orders through a digital form so that I can eliminate manual data entry errors and speed up processing.",5,User001,"order-management,automation",Order Management,"Given I am on the order creation page
+When I fill in all required fields and attach files
+Then the system creates a new order with unique ID
+And sends confirmation emails to all stakeholders"
+OM-002,Story,Real-time Order Status Tracking,"As a Production Team Member, I want to update order status in real-time so that all stakeholders have current progress information.",3,User002,"tracking,real-time",Order Management,"Given I am assigned to an order
+When I change the order status
+Then the system timestamps the change
+And sends automated notifications to relevant parties"
+OM-003,Story,Automated Order Assignment,"As a System Administrator, I want orders to be automatically assigned based on workload and skills so that resources are optimally utilized.",8,User003,"automation,assignment",Order Management,"Given a new order is received
+When the system processes the order details
+Then it automatically assigns to the most suitable team member
+And notifies the assigned person immediately"
+FM-001,Story,File Upload with Version Control,"As a Designer, I want to upload and manage multiple file versions so that I can track design iterations and maintain file integrity.",5,User004,"file-management,version-control",File Management,"Given I am working on an order requiring file revisions
+When I upload a new version of a design file
+Then the system creates a new version number
+And maintains previous versions for rollback"
+FM-002,Story,Secure File Storage and Access,"As a Security Administrator, I want all files to be stored securely with access controls so that sensitive client data is protected.",8,User005,"security,file-storage",File Management,"Given files are uploaded to the system
+When access is requested
+Then the system validates user permissions
+And provides secure access only to authorized users"
+FM-003,Story,Bulk File Processing,"As a Production Manager, I want to process multiple files simultaneously so that I can handle large orders efficiently.",5,User006,"bulk-processing,efficiency",File Management,"Given I have multiple files for an order
+When I select bulk processing option
+Then the system processes all files simultaneously
+And provides progress updates for each file"
+NS-001,Story,Automated Email Notifications,"As a Customer Service Representative, I want automated notifications for status changes so that customers are informed without manual intervention.",3,User007,"notifications,automation",Communication,"Given an order status changes
+When the change is processed
+Then automated emails are sent to relevant parties
+And notification delivery is confirmed"
+NS-002,Story,SLA Violation Alerts,"As a Manager, I want to receive alerts when orders are at risk of SLA violations so that I can take corrective action.",5,User008,"sla,alerts,management",Communication,"Given an order is approaching its due date
+When 80% of allocated time has passed
+Then automatic escalation alerts are triggered
+And appropriate stakeholders are notified"
+NS-003,Story,Configurable Notification Preferences,"As an End User, I want to configure my notification preferences so that I receive relevant communications without being overwhelmed.",3,User009,"user-preferences,notifications",Communication,"Given I access notification settings
+When I configure my preferences
+Then the system respects my choices
+And only sends notifications matching my criteria"
+RA-001,Story,Real-time Operations Dashboard,"As an Executive, I want a real-time dashboard showing key operational metrics so that I can make informed business decisions.",8,User010,"dashboard,analytics,executive",Reporting,"Given I access the executive dashboard
+When the page loads
+Then all KPIs display current data
+And charts are interactive with drill-down capability"
+RA-002,Story,Custom Report Builder,"As a Business Analyst, I want to create custom reports so that I can analyze data according to specific business requirements.",8,User011,"reporting,custom,analytics",Reporting,"Given I access the report builder
+When I configure report parameters
+Then the system generates the requested report
+And allows export in multiple formats"
+RA-003,Story,Performance Trend Analysis,"As a Production Manager, I want to analyze performance trends over time so that I can identify improvement opportunities.",5,User012,"trends,performance,analysis",Reporting,"Given I access trend analysis features
+When I select time periods and metrics
+Then the system displays trend charts
+And provides statistical insights"
+UM-001,Story,Role-based Access Control,"As a System Administrator, I want to manage user roles and permissions so that system access is properly controlled.",8,User013,"security,access-control,admin",User Management,"Given I am managing user accounts
+When I assign roles to users
+Then the system enforces appropriate permissions
+And prevents unauthorized access to restricted features"
+UM-002,Story,User Activity Audit Trail,"As a Compliance Officer, I want to track all user activities so that I can ensure regulatory compliance and security.",5,User014,"audit,compliance,security",User Management,"Given users perform actions in the system
+When activities occur
+Then all actions are logged with timestamps
+And audit reports can be generated"
+UM-003,Story,Single Sign-On Integration,"As an IT Administrator, I want to integrate with company SSO so that users can access the system with their corporate credentials.",8,User015,"sso,integration,authentication",User Management,"Given the SSO system is configured
+When users attempt to login
+Then they are authenticated via corporate credentials
+And gain appropriate system access"
+IN-001,Story,Accounting System Integration,"As a Finance Manager, I want order data to flow automatically to the accounting system so that invoicing is streamlined.",13,User016,"integration,accounting,automation",Integration,"Given an order is completed
+When the system processes completion
+Then order data is automatically sent to accounting
+And invoice generation is triggered"
+IN-002,Story,Email System Integration,"As a Communication Manager, I want the system to send emails through our corporate email infrastructure so that all communications are properly managed.",5,User017,"integration,email,infrastructure",Integration,"Given system needs to send notifications
+When email triggers are activated
+Then messages are sent via corporate email system
+And delivery status is tracked"
+IN-003,Story,Cloud Storage Integration,"As an IT Manager, I want files to be stored in our cloud infrastructure so that data is secure and accessible.",8,User018,"integration,cloud-storage,security",Integration,"Given files are uploaded to the system
+When storage is required
+Then files are saved to configured cloud storage
+And access permissions are maintained"
+QA-001,Story,Automated Quality Validation,"As a Quality Manager, I want automated quality checks so that consistent standards are maintained without manual review.",8,User019,"quality,automation,validation",Quality Assurance,"Given work is completed by production team
+When quality validation is triggered
+Then automated checks are performed
+And results determine next workflow steps"
+QA-002,Story,Quality Metrics Tracking,"As a Quality Manager, I want to track quality metrics over time so that I can identify trends and improvement areas.",5,User020,"quality,metrics,tracking",Quality Assurance,"Given quality data is collected
+When I access quality reports
+Then trend analysis is available
+And statistical insights are provided"
+SY-001,Story,System Health Monitoring,"As an IT Administrator, I want real-time system health monitoring so that issues can be detected and resolved proactively.",8,User021,"monitoring,system-health,proactive",System Administration,"Given the system is operational
+When monitoring tools are active
+Then health metrics are continuously tracked
+And alerts are triggered for anomalies"
+SY-002,Story,Automated Backup and Recovery,"As an IT Administrator, I want automated backup and recovery processes so that data is protected and can be restored quickly.",8,User022,"backup,recovery,automation",System Administration,"Given the system is operational
+When backup schedules execute
+Then data is automatically backed up
+And recovery procedures are tested regularly"
+SY-003,Story,Performance Optimization,"As an IT Administrator, I want system performance optimization features so that response times meet user expectations.",5,User023,"performance,optimization,response-time",System Administration,"Given users interact with the system
+When performance monitoring is active
+Then response times are tracked
+And optimization recommendations are provided"
+CS-001,Story,Customer Communication Portal,"As a Customer Service Representative, I want a centralized communication portal so that all customer interactions are tracked and managed.",8,User024,"customer-service,communication,portal",Customer Service,"Given I need to communicate with customers
+When I access the communication portal
+Then all previous interactions are visible
+And new communications are properly logged"
