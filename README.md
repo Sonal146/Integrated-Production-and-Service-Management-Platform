@@ -10,7 +10,7 @@ $550,000+ verified annual cost savings
 
 Complete digital transformation from manual to automated operations.
 
-# 🔒 Confidentiality & Non-Disclosure Notice
+#  Confidentiality & Non-Disclosure Notice
 **⚠️ IMPORTANT:** Due to **strict non-disclosure agreements** and **employer confidentiality policies**, all sensitive business information has been systematically anonymized while preserving the professional integrity and technical accuracy of the work:
 ### **Professional Integrity Statement**
 
@@ -162,36 +162,36 @@ Stakeholder Satisfaction:
 
 ```
 Production-Management-Platform-BA-Portfolio/
-├── 📄 README.md                                    # This comprehensive portfolio overview
-├── ⚖️ LICENSE                                       # MIT license for professional sharing
-├── 📂 artifacts/                                   # Complete project deliverables
-│   ├── 📂 BRD/                                    # Business Requirements Documentation
+├──  README.md                                    # This comprehensive portfolio overview
+├──  LICENSE                                       # MIT license for professional sharing
+├──  artifacts/                                   # Complete project deliverables
+│   ├── BRD/                                    # Business Requirements Documentation
 │   │   └── 📑 BRD_Integrated_Service_Platform.pdf # 95-page comprehensive requirements (REAL)
-│   ├── 📂 FRD/                                    # Functional Requirements Documentation  
+│   ├── FRD/                                    # Functional Requirements Documentation  
 │   │   └── 📑 FRD_Integrated_Service_Platform.pdf # 70-page technical specifications (REAL)
-│   ├── 📂 Charter/                                # Project Authorization Documentation
+│   ├── Charter/                                # Project Authorization Documentation
 │   │   └── 📑 Project_Charter.pdf                # Executive-approved project charter (REAL)
-│   ├── 📂 BPMN/                                   # Business Process Models
+│   ├──  BPMN/                                   # Business Process Models
 │   │   ├── 🔄 AS-IS_Process_BPMN.xml             # Current state process (BPMN 2.0 compliant)
 │   │   ├── 🖼️ AS-IS_Process_BPMN.png             # Current process visualization
 │   │   ├── 🔄 TO-BE_Process_BPMN.xml             # Future state process (BPMN 2.0 compliant)  
 │   │   └── 🖼️ TO-BE_Process_BPMN.png             # Future process visualization
-│   ├── 📂 UserStories/                           # Agile Development Artifacts
+│   ├──  UserStories/                           # Agile Development Artifacts
 │   │   └── 📊 JIRA_UserStories.csv               # 25+ user stories with acceptance criteria
-│   ├── 📂 DataModel/                             # Database Architecture (PRODUCTION-DEPLOYED)
+│   ├──  DataModel/                             # Database Architecture (PRODUCTION-DEPLOYED)
 │   │   ├── 💾 MySQL_DDL_v1.sql                   # Complete database schema (MySQL 8.0)
 │   │   └── 🖼️ DataModel_V1_ERD.png               # Entity relationship diagram
-│   ├── 📂 Wireframes/                            # UI/UX Design Specifications
+│   ├──  Wireframes/                            # UI/UX Design Specifications
 │   │   ├── 🖼️ Order_Intake.png                   # Digital order form design
 │   │   ├── 🖼️ Dashboard_Main.png                 # Executive dashboard layout
 │   │   ├── 🖼️ Order_Details.png                  # Order management interface
 │   │   └── 🖼️ File_Upload.png                    # File management system
-│   ├── 📂 UAT/                                   # Quality Assurance Testing
+│   ├──  UAT/                                   # Quality Assurance Testing
 │   │   └── 📊 UAT_TestCases.xlsx                 # 25 comprehensive test scenarios
-│   └── 📂 BI/                                    # Business Intelligence Implementation
+│   └──  BI/                                    # Business Intelligence Implementation
 │       ├── 📑 BI_Spec_PowerBI.md                 # Dashboard specifications with DAX
 │       └── 🖼️ BI_Mockups.png                     # Analytics dashboard designs
-└── 📂 docs/                                      # Supporting Documentation
+└──  docs/                                      # Supporting Documentation
     ├── 📑 Process_Flow_Documentation.pdf         # Detailed process analysis (30 pages)
     ├── 📑 Wireframes_Specification.pdf           # UI/UX design guide (20 pages)
     └── 📊 Implementation_Roadmap.xlsx            # Actual project timeline and milestones
@@ -440,11 +440,11 @@ SELECT * FROM orders o JOIN files f ON o.id = f.order_id; -- 45ms average
 
 ---
 
-## ⚖ Legal & Compliance
+##  Legal & Compliance
 
 ### **Professional Confidentiality Statement**
 
-**🛡 NON-DISCLOSURE COMPLIANCE:** This portfolio represents **genuine professional work** completed under **strict confidentiality agreements**. All business-sensitive information has been systematically anonymized to protect:
+** NON-DISCLOSURE COMPLIANCE:** This portfolio represents **genuine professional work** completed under **strict confidentiality agreements**. All business-sensitive information has been systematically anonymized to protect:
 
 - **Employer proprietary information** and competitive advantages
 - **Customer data privacy** and contractual confidentialities  
