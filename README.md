@@ -477,10 +477,10 @@ This portfolio is authorized for:
 
 ---
 
-##  Lead Business Analyst
+##  Business Analyst
 
 ### **Sonal M. Khobragade**
-**Senior Business Analyst | Digital Transformation Specialist**  
+**Business Analyst | Digital Transformation Specialist**  
 **MBA Financial Management | Business Process Optimization Expert**
 
 #### **Project Leadership & Achievements**
