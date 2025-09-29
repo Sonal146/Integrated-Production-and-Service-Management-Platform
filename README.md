@@ -65,7 +65,7 @@ Designed and led implementation of an **Integrated Production and Service Manage
 ### **Verified Project Outcomes**
 - **60% reduction** in order processing time (4 hours → 90 minutes)
 - **95% SLA compliance** achievement (up from 72%)
-- **$550,000+ annual cost savings** through operational efficiency
+- **$##0,000+ annual cost savings** through operational efficiency
 - **40% business growth enablement** without proportional staffing increases
 - **Complete elimination** of manual data entry and coordination bottlenecks
 
