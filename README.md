@@ -45,7 +45,7 @@ Complete digital transformation from manual to automated operations.
 ##  Project Overview
 
 ### **Real Business Challenge Addressed**
-Led the complete digital transformation of a **$2M+ revenue e-commerce services company** specializing in custom design services (embroidery digitizing, vector graphics, custom patches). The organization faced critical operational challenges threatening business continuity:
+Led the complete digital transformation of a **$#M+ revenue e-commerce services company** specializing in custom design services (embroidery digitizing, vector graphics, custom patches). The organization faced critical operational challenges threatening business continuity:
 
 - **Manual, email-driven operations** causing 4+ hour processing delays
 - **72% SLA compliance rate** jeopardizing major client relationships (80% of revenue)
