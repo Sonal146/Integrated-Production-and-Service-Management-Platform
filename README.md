@@ -2,7 +2,7 @@
 
 This repository showcases actual professional work completed as Lead Business Analyst for a digital transformation initiative in the e-commerce services industry. The project successfully delivered measurable business outcomes including:
 
-$550,000+ verified annual cost savings
+$##0,000+ verified annual cost savings
 
 60% operational efficiency improvement
 
