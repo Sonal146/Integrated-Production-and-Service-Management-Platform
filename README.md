@@ -78,11 +78,11 @@ Designed and led implementation of an **Integrated Production and Service Manage
 
 | Performance Metric | Baseline (Pre-Implementation) | Achieved Results | Business Impact |
 |-------------------|-------------------------------|------------------|-----------------|
-| **Order Processing Time** | 4.2 hours average | 1.5 hours average | **$180,000 annual labor savings** |
-| **SLA Compliance Rate** | 72% on-time delivery | 95% on-time delivery | **$200,000 penalty cost avoidance** |
-| **Error Rate (Rework)** | 8.3% requiring revision | 1.8% requiring revision | **$120,000 rework cost elimination** |
+| **Order Processing Time** | 4.2 hours average | 1.5 hours average | **$##0,000 annual labor savings** |
+| **SLA Compliance Rate** | 72% on-time delivery | 95% on-time delivery | **$#00,000 penalty cost avoidance** |
+| **Error Rate (Rework)** | 8.3% requiring revision | 1.8% requiring revision | **$##0,000 rework cost elimination** |
 | **Customer Satisfaction** | 7.2/10 average rating | 9.1/10 average rating | **Client relationship strengthening** |
-| **Team Productivity** | 3.2 orders/person/day | 5.8 orders/person/day | **$150,000 capacity value creation** |
+| **Team Productivity** | 3.2 orders/person/day | 5.8 orders/person/day | **$##0,000 capacity value creation** |
 
 ### **Strategic Business Protection**
 - **Revenue Security:** Protected $1.6M annual revenue from major client relationships
@@ -100,8 +100,8 @@ Designed and led implementation of an **Integrated Production and Service Manage
    └── Response Time: 4-6 hours → <30 minutes (90% faster)
 
  Financial Performance:
-   ├── Annual Cost Savings: $550,000+ verified
-   ├── Revenue Protection: $1,600,000 (major client retention)
+   ├── Annual Cost Savings: $##0,000+ verified
+   ├── Revenue Protection: $##,600,000 (major client retention)
    ├── ROI Achievement: 366% in first year
    └── Payback Period: 9.8 months (ahead of 12-month target)
 
@@ -166,35 +166,35 @@ Production-Management-Platform-BA-Portfolio/
 ├──  LICENSE                                       # MIT license for professional sharing
 ├──  artifacts/                                   # Complete project deliverables
 │   ├── BRD/                                    # Business Requirements Documentation
-│   │   └── 📑 BRD_Integrated_Service_Platform.pdf # 95-page comprehensive requirements (REAL)
+│   │   └──  BRD_Integrated_Service_Platform.pdf # 95-page comprehensive requirements (REAL)
 │   ├── FRD/                                    # Functional Requirements Documentation  
-│   │   └── 📑 FRD_Integrated_Service_Platform.pdf # 70-page technical specifications (REAL)
+│   │   └──  FRD_Integrated_Service_Platform.pdf # 70-page technical specifications (REAL)
 │   ├── Charter/                                # Project Authorization Documentation
-│   │   └── 📑 Project_Charter.pdf                # Executive-approved project charter (REAL)
+│   │   └──  Project_Charter.pdf                # Executive-approved project charter (REAL)
 │   ├──  BPMN/                                   # Business Process Models
-│   │   ├── 🔄 AS-IS_Process_BPMN.xml             # Current state process (BPMN 2.0 compliant)
-│   │   ├── 🖼️ AS-IS_Process_BPMN.png             # Current process visualization
-│   │   ├── 🔄 TO-BE_Process_BPMN.xml             # Future state process (BPMN 2.0 compliant)  
-│   │   └── 🖼️ TO-BE_Process_BPMN.png             # Future process visualization
+│   │   ├──  AS-IS_Process_BPMN.xml             # Current state process (BPMN 2.0 compliant)
+│   │   ├──  AS-IS_Process_BPMN.png             # Current process visualization
+│   │   ├── TO-BE_Process_BPMN.xml             # Future state process (BPMN 2.0 compliant)  
+│   │   └──  TO-BE_Process_BPMN.png             # Future process visualization
 │   ├──  UserStories/                           # Agile Development Artifacts
-│   │   └── 📊 JIRA_UserStories.csv               # 25+ user stories with acceptance criteria
+│   │   └──  JIRA_UserStories.csv               # 25+ user stories with acceptance criteria
 │   ├──  DataModel/                             # Database Architecture (PRODUCTION-DEPLOYED)
-│   │   ├── 💾 MySQL_DDL_v1.sql                   # Complete database schema (MySQL 8.0)
-│   │   └── 🖼️ DataModel_V1_ERD.png               # Entity relationship diagram
+│   │   ├──  MySQL_DDL_v1.sql                   # Complete database schema (MySQL 8.0)
+│   │   └──  DataModel_V1_ERD.png               # Entity relationship diagram
 │   ├──  Wireframes/                            # UI/UX Design Specifications
-│   │   ├── 🖼️ Order_Intake.png                   # Digital order form design
-│   │   ├── 🖼️ Dashboard_Main.png                 # Executive dashboard layout
-│   │   ├── 🖼️ Order_Details.png                  # Order management interface
-│   │   └── 🖼️ File_Upload.png                    # File management system
+│   │   ├──  Order_Intake.png                   # Digital order form design
+│   │   ├──  Dashboard_Main.png                 # Executive dashboard layout
+│   │   ├──  Order_Details.png                  # Order management interface
+│   │   └──  File_Upload.png                    # File management system
 │   ├──  UAT/                                   # Quality Assurance Testing
-│   │   └── 📊 UAT_TestCases.xlsx                 # 25 comprehensive test scenarios
+│   │   └──  UAT_TestCases.xlsx                 # 25 comprehensive test scenarios
 │   └──  BI/                                    # Business Intelligence Implementation
-│       ├── 📑 BI_Spec_PowerBI.md                 # Dashboard specifications with DAX
-│       └── 🖼️ BI_Mockups.png                     # Analytics dashboard designs
+│       ├──  BI_Spec_PowerBI.md                 # Dashboard specifications with DAX
+│       └──  BI_Mockups.png                     # Analytics dashboard designs
 └──  docs/                                      # Supporting Documentation
-    ├── 📑 Process_Flow_Documentation.pdf         # Detailed process analysis (30 pages)
-    ├── 📑 Wireframes_Specification.pdf           # UI/UX design guide (20 pages)
-    └── 📊 Implementation_Roadmap.xlsx            # Actual project timeline and milestones
+    ├──  Process_Flow_Documentation.pdf         # Detailed process analysis (30 pages)
+    ├──  Wireframes_Specification.pdf           # UI/UX design guide (20 pages)
+    └──  Implementation_Roadmap.xlsx            # Actual project timeline and milestones
 ```
 
 ---
@@ -302,11 +302,11 @@ Efficiency Transformation:
    └── Automation Level: 480% increase (15% → 87% automated processes)
 
  Financial Impact Verification:
-   ├── Direct Cost Savings: $350,000 annually (labor + efficiency)
-   ├── Quality Cost Avoidance: $120,000 annually (reduced rework)
-   ├── SLA Penalty Prevention: $200,000 annually (compliance improvement) 
-   ├── Revenue Protection: $1,600,000 (major client retention)
-   └── Total Economic Value: $2,270,000 over 3-year period
+   ├── Direct Cost Savings: $##0,000 annually (labor + efficiency)
+   ├── Quality Cost Avoidance: $##0,000 annually (reduced rework)
+   ├── SLA Penalty Prevention: $##0,000 annually (compliance improvement) 
+   ├── Revenue Protection: $##00,000 (major client retention)
+   └── Total Economic Value: $#,##0,000 over 3-year period
 
  Stakeholder Satisfaction:
    ├── Customer Experience: 26% improvement (7.2 → 9.1/10 rating)
@@ -484,10 +484,10 @@ This portfolio is authorized for:
 **MBA Financial Management | Business Process Optimization Expert**
 
 #### **Project Leadership & Achievements**
--  **Led $150K digital transformation** delivering **$550K+ annual savings** and **366% ROI**
+-  **Led $##0K digital transformation** delivering **$##0K+ annual savings** and **366% ROI**
 -  **Managed 15+ stakeholders** across executive, operational, and technical teams
 -  **Achieved 60% efficiency improvement** through systematic process automation
--  **Delivered 95% SLA compliance** protecting $1.6M in client revenue relationships
+-  **Delivered 95% SLA compliance** protecting $#.#M in client revenue relationships
 -  **Designed production systems** serving 1000+ daily users with 99.8% uptime
 
 #### **Core Professional Competencies**
@@ -527,8 +527,8 @@ This portfolio is authorized for:
 This **real-world business analysis portfolio** demonstrates proven capability to **lead complex digital transformation initiatives** that deliver **measurable business results**. Through systematic analysis, strategic design, and comprehensive implementation planning, this project achieved:
 
 ### ** Strategic Business Leadership**
-- **$550,000+ annual cost savings** through operational transformation
-- **$1.6M revenue protection** via client relationship management excellence  
+- **$##0,000+ annual cost savings** through operational transformation
+- **$#.#M revenue protection** via client relationship management excellence  
 - **366% ROI achievement** exceeding all financial projections
 - **40% business growth enablement** through scalable platform architecture
 
