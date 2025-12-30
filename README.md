@@ -1,4 +1,4 @@
-# Integrated-Production-and-Service-Management-Platform
+# Integrated-Self-Service and Order Tracking (Service-Management) Platform
 
 This repository showcases actual professional work completed as Lead Business Analyst for a digital transformation initiative in the e-commerce services industry. The project successfully delivered measurable business outcomes including:
 
