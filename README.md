@@ -536,7 +536,7 @@ This portfolio is authorized for:
 - **Project Management:** PMI PMBOK standards and best practices application
 - **Quality Assurance:** IEEE 830 requirements specification standards
 - **Database Management:** MySQL optimization and performance tuning
-- **Process Improvement:** Six Sigma principles and continuous improvement methodologies
+- **Process Improvement:** Six Sigma principles and continuous improvement methodologies.
 
 ---
 
